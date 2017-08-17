@@ -10,12 +10,14 @@
 namespace DBFirst
 {
     using System;
-    using System.Collections.Generic;
     
-    public partial class tblUser
+    public partial class GetCourses_Result
     {
-        public int UserID { get; set; }
-        public string Username { get; set; }
-        public int Password { get; set; }
+        public int CourseID { get; set; }
+        public int AuthorID { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public short FullPrice { get; set; }
+        public byte Level { get; set; }
     }
 }

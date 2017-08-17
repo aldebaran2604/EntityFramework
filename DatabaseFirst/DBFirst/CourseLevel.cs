@@ -10,12 +10,11 @@
 namespace DBFirst
 {
     using System;
-    using System.Collections.Generic;
     
-    public partial class tblUser
+    public enum CourseLevel : byte
     {
-        public int UserID { get; set; }
-        public string Username { get; set; }
-        public int Password { get; set; }
+        Beginner = 1,
+        Intermediate = 2,
+        Advanced = 3
     }
 }
