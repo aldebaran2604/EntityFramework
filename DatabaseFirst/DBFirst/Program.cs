@@ -17,8 +17,10 @@ namespace DBFirst
             {
                 Console.WriteLine(c.Title);
             }*/
-            var cours = new Cours();
-            cours.Level = CourseLevel.Beginner;
+            /*var cours = new Cours();
+            cours.Level = CourseLevel.Beginner;*/
+            var dbContext = new VidzyEntities();
+            dbContext.spAddVideo("Prueba 7", DateTime.Now, "Horror", (int)Classification.Platinum);
         }
     }
 }
