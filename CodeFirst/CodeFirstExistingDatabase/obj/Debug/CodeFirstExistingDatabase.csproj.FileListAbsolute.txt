@@ -1,0 +1,9 @@
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe.config
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.pdb
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.dll
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.xml
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.exe
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.pdb

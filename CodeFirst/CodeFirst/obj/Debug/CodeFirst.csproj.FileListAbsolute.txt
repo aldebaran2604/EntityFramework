@@ -1,0 +1,11 @@
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\lpadilla\Documents\Github\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
